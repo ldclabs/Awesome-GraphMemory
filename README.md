@@ -347,3 +347,10 @@ This repository provides a comprehensive collection of research papers, benchmar
   year={2026}
 }
 ```
+
+
+# ⭐ Star History
+
+![Star History Chart](https://api.star-history.com/svg?repos=DEEP-PolyU/Awesome-GraphMemory&type=Date)
+
+
