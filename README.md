@@ -8,7 +8,7 @@
    
 </div>
 
-This repository provides a comprehensive collection of research papers, benchmarks, and open-source projects on **Graph-based Agent Memory**. It includes contents from our survey paper 📖<em>"[**Graph-based Agent Memory: Taxonomy, Techniques, and Applications**](https://www.researchgate.net/publication/401016261_A_Systematic_Survey_of_Self-Evolving_Agents_From_Model-Centric_to_Environment-Driven_Co-Evolution)"</em> and will be continuously updated.
+This repository provides a comprehensive collection of research papers, benchmarks, and open-source projects on **Graph-based Agent Memory**. It includes contents from our survey paper 📖<em>"[**Graph-based Agent Memory: Taxonomy, Techniques, and Applications**](https://arxiv.org/abs/2602.05665)"</em> and will be continuously updated.
 
 🤗 **You are very welcome to contribute to this repository** by launching an issue or a pull request. If you find any missing resources or come across interesting new research works, please don’t hesitate to open an issue or submit a PR!
 
@@ -88,6 +88,7 @@ This repository provides a comprehensive collection of research papers, benchmar
 
 #### Hierarchical Memory Structure
 
+- (arXiv'26) **Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation** [[Paper]](https://arxiv.org/abs/2602.02007)
 - (arXiv'25) **ENGRAM: Effective, Lightweight Memory Orchestration for Conversational Agents** [[Paper]](https://arxiv.org/abs/2511.12960)
 - (arXiv'25) **SGMem: Sentence Graph Memory for Long-Term Conversational Agents** [[Paper]](https://arxiv.org/abs/2509.21212)
 - (arXiv'25) **G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems** [[Paper]](https://arxiv.org/abs/2506.07398)
